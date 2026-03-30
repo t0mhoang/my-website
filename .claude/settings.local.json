@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"C:/Users/T/Desktop/MyWebsite/my-website\" && npx next build 2>&1)"
+    ]
+  }
+}
